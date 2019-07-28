@@ -4,6 +4,11 @@
 ```
 npm install
 ```
+### For run project on your device  must install vue on project
+```
+npm install vue
+```
+
 
 ### Compiles and hot-reloads for development
 ```
