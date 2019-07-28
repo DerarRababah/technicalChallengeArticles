@@ -46,7 +46,7 @@ export default {
         if (event.target.files && event.target.files[0]) {
             var reader = new FileReader();
             var vm = this;
-            if(event.target.files[0].size > 400000){
+            if(event.target.files[0].size > 4000000){
               alert("File is too big!");
               return
             };
