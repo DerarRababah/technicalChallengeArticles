@@ -4,7 +4,7 @@
 ```
 npm install
 ```
-### For run project on you divice must install vue on project
+### For run project on your device  must install vue on project
 ```
 npm install vue
 ```
